@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/random-hira-kata/static/js/main.d71bd6c9.js",
+    "index.html": "/random-hira-kata/index.html",
+    "main.d71bd6c9.js.map": "/random-hira-kata/static/js/main.d71bd6c9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d71bd6c9.js"
+  ]
+}
