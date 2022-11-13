@@ -191,7 +191,8 @@ function App() {
     setForm(event.target.value)
 
   }
-  function submit() {
+  function submit(event) {
+    event.preventDefault();
 
     if (cArr.indexOf(arr) !== nameArr.indexOf(form)) {
       setBool2(prevBool2 => prevBool2 = '1')
